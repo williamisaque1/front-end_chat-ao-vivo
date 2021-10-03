@@ -37,7 +37,7 @@ function App() {
 
   /*const [logado, setLogado] = useState(true);
   const [nome, setNome] = useState("Cesar")
-  const [sala, setSala] = useState("1");*/
+  const [sala, setSala] = useState("1")*/
 
   const [mensagem, setMensagem] = useState("");
   const [listaMensagem, setListaMensagem] = useState([]);
